@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Motivation</string>
+    <string name="lets_start">Vamos começar!</string>
+    <string name="whats_your_name">Qual o seu nome?</string>
+    <string name="btn_save">Salvar</string>
+    <string name="empty_field_name">Por inserir um nome</string>
 </resources>
